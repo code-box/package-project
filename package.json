@@ -13,6 +13,6 @@
         "minimatch": "2.0.4"
     },
     "packageDependencies": {
-        "menubar": "CodeboxIDE/package-menubar"
+        "menubar": "code-box/package-menubar"
     }
 }
